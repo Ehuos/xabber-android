@@ -99,8 +99,6 @@ public class ContactList extends ManagedListActivity implements
 		OnContactChangedListener, OnAccountChangedListener,
 		OnChatChangedListener, View.OnClickListener, ConfirmDialogListener,
 		OnItemClickListener, OnLongClickListener {
-	
-	private static final String Test="看我能提交到github不";
 
 	/**
 	 * Select contact to be invited to the room was requested.
