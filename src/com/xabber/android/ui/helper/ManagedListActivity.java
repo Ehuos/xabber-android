@@ -22,6 +22,7 @@ import com.xabber.android.data.ActivityManager;
 
 /**
  * Base class for all ListActivities.
+ * 所有activity的基类
  * 
  * Adds custom activity logic.
  * 
